@@ -1,3 +1,3 @@
-module github.com/mastertinner/kittens2
+module github.com/bespinian/minimal-docker-demo
 
-go 1.13
+go 1.15
